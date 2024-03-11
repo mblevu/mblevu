@@ -19,7 +19,7 @@
 
 ###
 
-<p align="left">I'm Brian <br><br>- 🔭 I’m working as a Developer and Mobile services cloud support engineer at AWS<br>- 📚 I'm currently learning AWS, Typescript & Cybersecurity<br>- ⚡ In my free time I Game or travel with my gf</p>
+<p align="left">I'm Brian <br><br>- 🔭 CSE DMI@AWS AWS<br>- 📚 I'm currently learning AWS, Typescript & Cybersecurity<br>- ⚡ In my free time I Game or travel with my gf</p>
 
 ###
 
