@@ -19,7 +19,7 @@
 
 ###
 
-<p align="left">I'm Brian <br><br>- 🔭 Mobile and Game dev @aws <br>- 📚 I'm currently learning AWS, Typescript & Cybersecurity<br>- ⚡ In my free time I Game or travel with my gf</p>
+<p align="left">I'm Levu <br><br>- 🔭 Mobile and Game dev @aws <br>- 📚 I'm currently learning AWS, Typescript & Cybersecurity<br>- ⚡ In my free time I Game or travel with my gf</p>
 
 ###
 
